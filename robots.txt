@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sirmysterion.github.io/emilys-portfolio/sitemap.xml
