@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////home/thomas/Documents/Publii/sites/emilys-portfolio/preview/sitemap.xml
